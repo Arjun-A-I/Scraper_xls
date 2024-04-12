@@ -33,3 +33,4 @@ for row, startup in enumerate(startup_name, start=1):
 
 # Save the new workbook
 result_wb.save("search_results.xlsx")
+
